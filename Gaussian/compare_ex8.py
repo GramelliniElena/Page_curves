@@ -1,5 +1,5 @@
 """
-Comparison between the OSEE computed via the covariance-matrix pipeline
+Comparison between the OSEE computed via the covariance-matrix method
 and ensemble B from Ex8_Solution.pdf.
 
 Ex8 setup: N=8 physical Majorana modes,
